@@ -3,7 +3,6 @@ import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import { StaticQuery, graphql } from 'gatsby';
 import Header from './Header';
-import Footer from './Footer';
 import '../assets/sass/main.scss';
 
 class Layout extends Component {
@@ -84,7 +83,6 @@ class Layout extends Component {
                 >
                   {children}
                 </div>
-                <Footer isVisible={footerVisible} onClose={this.toggleFooter} />
               </div>
             </div>
           </>
