@@ -5,10 +5,10 @@ import Gallery from '../components/Gallery';
 
 const img_set = [
   {
-    src: require('../assets/images/fulls/01.jpg'),
+    src: require('../assets/images/fulls/zizania-aquatica.jpg'),
     thumbnail: require('../assets/images/thumbs/01.jpg'),
-    title: 'Great Sky',
-    desc: 'Be one with the Universe',
+    title: 'Annual Wildrice',
+    desc: 'Annual Wildrice (Zizania aquatica) - https://www.plants.usda.gov/core/profile?symbol=ZIAQ#',
   },
   {
     src: require('../assets/images/fulls/02.jpg'),
