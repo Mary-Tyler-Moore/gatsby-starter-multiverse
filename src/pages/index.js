@@ -6,9 +6,9 @@ import Gallery from '../components/Gallery';
 const img_set = [
   {
     src: require('../assets/images/fulls/zizania-aquatica.jpg'),
-    thumbnail: require('../assets/images/thumbs/01.jpg'),
-    title: 'Annual Wildrice',
-    desc: 'Annual Wildrice (Zizania aquatica) - https://www.plants.usda.gov/core/profile?symbol=ZIAQ#',
+    thumbnail: require('../assets/images/thumbs/zizania-aquatica-thumb.jpg'),
+    title: 'Southern Wild Rice',
+    desc: 'Zizania aquatica - https://www.plants.usda.gov/core/profile?symbol=ZIAQ#',
   },
   {
     src: require('../assets/images/fulls/02.jpg'),
